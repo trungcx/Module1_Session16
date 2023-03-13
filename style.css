@@ -1,0 +1,8 @@
+.common_p{
+    font-size: 20px;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+#lab_exercise1_no1_input{
+    width: 250px;
+}
